@@ -1,0 +1,2 @@
+include the header in ur source code, and add the following line in every possible end of ur programme ---> lgebs(0,0,0, 3, 0);
+idc if this tool itself has leaks (which is probably the case),
