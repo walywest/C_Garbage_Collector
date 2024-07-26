@@ -10,4 +10,4 @@ Simple and maybe even primitve C language gargbage collector that warns which li
 
 
 ### Known issues :
-It needs more wrapping for a more streamlined usage, open for contributions and suggestions.
+It needs better wrapping for a more streamlined usage, open for contributions and suggestions.
