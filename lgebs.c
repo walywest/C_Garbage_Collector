@@ -105,7 +105,3 @@ void     *lgebs(void *ptr, char *file, int line, int option, size_t size)
     }
     return (0);
 }
-
-int main() {
-    printf("test");
-}
